@@ -30,3 +30,4 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+getintopc.com/softwares/photo-editing/adobe-photoshop-cc-2018-v19-1-x64-portable-download-2144161/
